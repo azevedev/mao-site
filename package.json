@@ -23,6 +23,6 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "fullpage.js": "^3.0.7"
+        "fullpage.js": "^4.0.5"
     }
 }
